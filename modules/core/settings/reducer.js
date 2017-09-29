@@ -1,4 +1,4 @@
-const initialState = {
+export const initialState = {
     appVersion: '',
     autoTestMode: false,
     dbInit: false,
